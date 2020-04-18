@@ -1,5 +1,5 @@
 此页面最近一次更新时间：2020.03.31              
-[返回到首页](https://passwallopenwrt.github.io/website/)                
+[返回到首页](https://openclashopenwrt.github.io/website/)                
 
 本页面目前唯一优选推荐机场👇（部分网络需要挂代理访问这个机场网站）             
 Light-up(点亮)：[Light-up](https://light-up.cc/auth/register?code=DusH)                               
