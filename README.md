@@ -5,7 +5,7 @@
 * [clash固件频道](https://t.me/clashOpenwrt)（源码更新内容总结、x86_64架构设备的clash固件）                         
 * [clash固件源码](./code.md)            
 * [clash固件教程](./tips.md)               
-* [工具](https://openclashopenwrt.github.io/tool/)               
+* [工具](https://clashopenwrt.github.io/tool/)               
 * [周边教程](./others.md)                   
 * [机场](./air.md)               
 
