@@ -1,6 +1,7 @@
 此页面最近一次更新时间：2020.04.19               
 [返回到首页](https://openclashopenwrt.github.io/website/)            
 
+* [openclash三分钟简单上手视频教程](https://youtu.be/6qqWEPK9ODs)              
 * [openclash官方说明](https://github.com/vernesong/OpenClash/blob/master/README.md)             
 * 挂载着硬盘等外接存储设备的固件，更新前一定要先拔出来，再更新固件，否则总有一天你就哭吧       
 * 修改LAN的IP命令：ifconfig br-lan         
