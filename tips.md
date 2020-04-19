@@ -1,4 +1,4 @@
-此页面最近一次更新时间：2020.04.18               
+此页面最近一次更新时间：2020.04.19               
 [返回到首页](https://openclashopenwrt.github.io/website/)            
 
 * [openclash官方说明](https://github.com/vernesong/OpenClash/blob/master/README.md)             
