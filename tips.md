@@ -1,7 +1,10 @@
 此页面最近一次更新时间：2020.04.19               
 [返回到首页](https://clashopenwrt.github.io/website/)            
 
-* [openclash三分钟简单上手视频教程](https://youtu.be/6qqWEPK9ODs)        
+【IT奶爸的视频教程系列】：           
+* 第01期：[三分钟上手](https://youtu.be/6qqWEPK9ODs)             
+* 第02期：暂无                 
+【其他】：               
 * 如果全新写盘报错的话，临时解决办法：先刷一个其他的openwrt固件，然后上传升级本固件(不保留配置升级)，升级到本固件后再重置一次固件即可(至于解决写盘出错问题，这得等官方openwrt解决)                    
 * [openclash官方说明](https://github.com/vernesong/OpenClash/blob/master/README.md)             
 * 挂载着硬盘等外接存储设备的固件，更新前一定要先拔出来，再更新固件，否则总有一天你就哭吧       
