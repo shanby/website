@@ -3,7 +3,8 @@
 
 【IT奶爸的视频教程系列】：           
 * 第01期：[三分钟上手](https://youtu.be/6qqWEPK9ODs)             
-* 第02期：暂无                 
+* 第02期：暂无       
+
 【其他】：               
 * 如果全新写盘报错的话，临时解决办法：先刷一个其他的openwrt固件，然后上传升级本固件(不保留配置升级)，升级到本固件后再重置一次固件即可(至于解决写盘出错问题，这得等官方openwrt解决)                    
 * [openclash官方说明](https://github.com/vernesong/OpenClash/blob/master/README.md)             
