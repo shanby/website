@@ -9,7 +9,8 @@
 * [clash固件源码](./code.md)                 
 * [工具](https://clashopenwrt.github.io/tool/)               
 * [周边教程](./others.md)                   
-* [机场](./air.md)               
+* [机场](./air.md)       
+请有恩山论坛账号的大佬们给留言顶贴谢谢：[帖子](https://www.right.com.cn/forum/thread-3999873-1-1.html)             
 
     
         
