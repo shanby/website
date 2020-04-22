@@ -9,7 +9,7 @@
 * 如果全新写盘报错的话，临时解决办法：先刷一个其他的openwrt固件，然后上传升级本固件(不保留配置升级)，升级到本固件后再重置一次固件即可(至于解决写盘出错问题，这得等官方openwrt解决)                    
 * [openclash官方说明](https://github.com/vernesong/OpenClash/blob/master/README.md)             
 * 挂载着硬盘等外接存储设备的固件，更新前一定要先拔出来，再更新固件，否则总有一天你就哭吧       
-* 修改LAN的IP命令：ifconfig br-lan         
+* 修改LAN的IP命令：ifconfig br-lan xxx.xxx.xxx.xxx （x为你需要改成的IP）          
 * 大多数问题都可以重启一次固件解决，请牢记！IT界真理：重启！             
 * 有些主题兼容性不好，在使用个别的luci插件时会出不显示错显示等bug,不想遇到这些问题请使用默认的主题(bootstrap类主题)                    
 * “旁路由”模式下，无法访问国内网络，在防火墙自定义规则添加：           
